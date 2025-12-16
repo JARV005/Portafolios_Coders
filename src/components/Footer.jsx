@@ -3,7 +3,7 @@ function Footer() {
     <footer className="footer">
       <div className="footer-container">
         <p className="footer-text">
-          © {new Date().getFullYear()} Developer Portfolio Directory. Built with React & Vite.
+          © {new Date().getFullYear()} Developer Portfolio Directory.
         </p>
       </div>
     </footer>
