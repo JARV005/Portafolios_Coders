@@ -29,7 +29,7 @@ export const coders = [
   },
   {
     id: 5,
-    name: "Jennifer",
+    name: "Jennifer Lopez",
     cohort: "6-Tesla",
     technologies: ["HTML", "CSS", "JavaScript", "Git", "React"],
     portfolioUrl: "https://jennlopezdv.github.io/Portafolio/",
